@@ -28,8 +28,9 @@ Pure Python — no external dependencies.
 
 # Project Structure
 astar_project/
-|---main.py            # Main program (algorithm + CLI)
-|---README.md          # This file
+|---main.py              # Main program (algorithm + CLI)
+|---README.md            # This file
+|---screenshots(output)  # output samples 
 
 # Requirements
 This project requires phython 3.7 or higher version to run properly. 
